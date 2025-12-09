@@ -26,7 +26,7 @@ class CurvedNavigationBar2 extends StatefulWidget {
     required this.items,
     this.labels, // add this
     this.index = 0,
-    this.color = Colors.white,
+    this.color = Colors.transparent,
     this.buttonBackgroundColor,
     this.backgroundColor = Colors.blueAccent,
     this.onTap,
